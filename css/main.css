@@ -124,14 +124,26 @@ a:hover {
   text-align: center;
 }
 
+.seccion3 h2{
+  text-align: center;
+}
+
+.seccion3 h4{
+  text-align: center;
+}
+
+.imgpc{
+  position: relative;
+  left: 300px;
+}
+
+.imgico{
+  display: inline-block;
+}
 footer{
   background: #424242;
   height: 70px;
   text-align: center;
   color: white;
   font-weight: 400;
-}
-
-.posicioncuadros{
-  display: inline-block;
 }
